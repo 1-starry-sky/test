@@ -28,6 +28,7 @@ public class test {
         list.add("8");
         list.add("9");
         list.add("10");
+        list.add("11");
         System.out.println(list);
         String mo_succ_rate = "7";
         double mo_succ_rate_math = Double.valueOf(mo_succ_rate);  //字符转数字
